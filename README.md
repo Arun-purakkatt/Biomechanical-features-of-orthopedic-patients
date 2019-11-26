@@ -1,6 +1,8 @@
 # Biomechanical-features-of-orthopedic-patients
 Classifying patients based on six features-pelvic incidence ,pelvic tilt ,lumbar lordosis angle, sacral slope, pelvic radius,grade of spondylolisthesis
 
+Data for classifying patients based on two classes
+
 column_3C_weka.csv (file with three class labels)
 
 The first task consists in classifying patients as belonging to one out of three categories: Normal (100 patients), Disk Hernia (60 patients) or Spondylolisthesis (150 patients).
